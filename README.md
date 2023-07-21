@@ -32,6 +32,11 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Advanced Configuration
 
+Submitted by:
+Pranjal Sinha
+2029166
+CSCE-01
+
 
 ### Deployment
 
